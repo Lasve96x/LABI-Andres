@@ -1,0 +1,5 @@
+{
+  "rpc": "https://api.mainnet-beta.solana.com",
+  "slippage": 0.5,
+  "wallet_private_key": "49HMZ9oCKAAdo3VyrRyAUU2VqdbH8svB8qkC7DwE18i8me5k8YLy8RDTcGwhK9sD8eMiCReCPWnDtXWs7udX8epY"
+}

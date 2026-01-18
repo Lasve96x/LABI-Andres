@@ -1,0 +1,58 @@
+2026-01-13 23:11:36.292 | ERROR    | __main__:load_config:45 - Config error: Expecting property name enclosed in double quotes: line 2 column 118 (char 119)
+2026-01-13 23:11:36.295 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:20:31.305 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:20:31.308 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:21:22.123 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:21:22.125 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:26:19.610 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:26:19.613 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:28:23.446 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:28:23.449 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:31:21.549 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:31:21.552 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:32:29.079 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:32:29.081 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:38:11.382 | WARNING  | __main__:load_config:38 - No wallet key, TEST MODE
+2026-01-13 23:38:11.385 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:42:12.332 | INFO     | __main__:load_config:43 - Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-13 23:42:12.335 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:47:55.461 | INFO     | __main__:load_config:43 - Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-13 23:47:55.464 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:50:01.052 | INFO     | __main__:load_config:43 - Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-13 23:50:01.055 | INFO     | __main__:main:119 - 🚀 LasveTraderBot v4.1 READY
+2026-01-13 23:55:50.309 | WARNING  | __main__:load_config:40 - TEST MODE: 'rpc'
+2026-01-13 23:55:50.311 | INFO     | __main__:main:106 - 🚀 v5 LIVE READY
+2026-01-14 00:45:45.792 | INFO     | __main__:load_config:39 - Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 00:45:45.793 | INFO     | __main__:main:82 - 🚀 LasveTraderBot v5.2 READY
+2026-01-14 00:53:11.725 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 00:53:11.851 | INFO     | __main__:main:90 - 🚀 LasveTraderBot v5.4 systemd READY
+2026-01-14 00:54:45.176 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 00:54:45.302 | INFO     | __main__:main:90 - 🚀 LasveTraderBot v5.4 systemd READY
+2026-01-14 00:55:55.449 | INFO     | __main__:cb_buy:86 - Buy 0.05 SOL
+2026-01-14 01:06:38.938 | INFO     | __main__:load_config:46 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 01:06:39.066 | INFO     | __main__:main:126 - 🚀 LasveTraderBot v6.1 JUPITER PRODUCTION
+2026-01-14 01:07:06.632 | ERROR    | __main__:execute_swap:122 - Swap error: Cannot connect to host quote-api.jup.ag:443 ssl:default [No address associated with hostname]
+2026-01-14 01:11:26.604 | INFO     | __main__:load_config:46 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 01:11:26.730 | INFO     | __main__:main:126 - 🚀 LasveTraderBot v6.1 JUPITER PRODUCTION
+2026-01-14 01:11:53.226 | ERROR    | __main__:execute_swap:122 - Swap error: Cannot connect to host 104.18.43.103:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1029)]
+2026-01-14 16:09:31.487 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:09:31.488 | INFO     | __main__:main:73 - 🚀 LasveTraderBot v5.5 READY
+2026-01-14 16:15:35.131 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:15:35.132 | INFO     | __main__:main:73 - 🚀 LasveTraderBot v5.5 READY
+2026-01-14 16:30:38.520 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:30:38.521 | INFO     | __main__:main:73 - 🚀 LasveTraderBot v5.5 READY
+2026-01-14 16:33:47.242 | INFO     | __main__:load_config:45 - ✅ Wallet loaded: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:33:47.242 | INFO     | __main__:main:73 - 🚀 LasveTraderBot v5.5 READY
+2026-01-14 16:42:12.193 | INFO     | __main__:load_config:52 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:42:12.317 | INFO     | __main__:main:135 - 🚀 LasveTraderBot v6.0 JUPITER READY
+2026-01-14 16:43:39.458 | ERROR    | __main__:execute_swap:83 - Swap error: Cannot connect to host quote-api.jup.ag:443 ssl:default [No address associated with hostname]
+2026-01-14 16:45:06.148 | INFO     | __main__:load_config:52 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:45:06.273 | INFO     | __main__:main:135 - 🚀 LasveTraderBot v6.0 JUPITER READY
+2026-01-14 16:48:54.908 | INFO     | __main__:load_config:52 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:48:55.033 | INFO     | __main__:main:135 - 🚀 LasveTraderBot v6.0 JUPITER READY
+2026-01-14 16:49:11.055 | ERROR    | __main__:execute_swap:83 - Swap error: Cannot connect to host 104.18.43.103:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1029)]
+2026-01-14 16:57:50.611 | INFO     | __main__:load_config:46 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:57:50.742 | INFO     | __main__:main:138 - 🚀 LasveTraderBot v6.1 READY
+2026-01-14 16:57:59.571 | ERROR    | __main__:execute_swap:89 - Swap error: verify_ssl, ssl_context, fingerprint and ssl parameters are mutually exclusive
+2026-01-14 16:59:13.061 | INFO     | __main__:load_config:46 - ✅ Wallet: Hk1y142ZCD3nSMBhcymf6KAevUWM9iPBEaLJGN6pwZtc
+2026-01-14 16:59:13.187 | INFO     | __main__:main:138 - 🚀 LasveTraderBot v6.1 READY

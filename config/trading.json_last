@@ -1,0 +1,6 @@
+{
+  "wallet_private_key": "49HMZ9oCKAAdo3VyrRyAUU2VqdbH8svB8qkC7DwE18i8me5k8YLy8RDTcGwhK9sD8eMiCReCPWnDtXWs7udX8epY",  // NO _, usa tua reale 88 chars
+  "target_token": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",  // USDC
+  "rpc_endpoint": "https://api.mainnet-beta.solana.com",
+  "slippage_bps": 50
+}
