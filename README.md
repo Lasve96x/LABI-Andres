@@ -1,7 +1,8 @@
 # LABI 🚀 Lasve Autonomous Bot Infrastructure
 Bot Telegram **24/7 su Raspberry Pi** per trading Solana/SaaS aziende.
 
-**Demo live**: [@LabiDemoBot](https://t.me/LabiDemoBot)  
+Demo live: [LABI Master Bot](https://t.me/LABIMasterBot)
+ 
 /status: CPU Pi, uptime, DB.
 
 **Stack CV**: Python asyncio, systemd, UFW, SQLite abbonamenti.
