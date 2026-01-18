@@ -1,1 +1,19 @@
-.env\n__pycache__/\n*.db\n*.log\nnode_modules/
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# Secrets
+configs/.env
+.env
+
+# Runtime
+logs/
+backups/
+*.log
+*.db
+
+# Node (se mai userai tooling)
+node_modules/
